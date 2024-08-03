@@ -6,7 +6,8 @@
 # SDUOJ/[Online Judge](https://github.com/SDUOJ/OnlineJudge)
 
 [![Java](https://img.shields.io/badge/Java-8-informational)](http://openjdk.java.net/)
-[![WebSite](https://img.shields.io/website?up_message=sduoj.online&url=https%3A%2F%2Fsduoj.online%2F)](https://sduoj.online/)
+[![Doc Site](https://img.shields.io/website?url=https%3A%2F%2Fdocs.sduoj.com&up_message=docs.sduoj.com&label=Documents)](https://docs.sduoj.com)
+[![Demo Site](https://img.shields.io/website?url=https%3A%2F%2Fdemo.sduoj.com&up_message=demo.sduoj.com&label=Demo%20Site)](https://demo.sduoj.com)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.1.12-success)](https://spring.io/projects/spring-boot)
 [![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-Greenwich.SR5-success)](https://spring.io/projects/spring-cloud)
 [![Spring Cloud Alibaba](https://img.shields.io/badge/Spring%20Cloud%20Alibaba-2.1.2-success)](https://spring.io/projects/spring-cloud-alibaba)
